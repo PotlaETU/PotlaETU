@@ -1,6 +1,8 @@
 ### Bienvenue sur mon GitHub ! 👋
 
-[![Mes stats](https://github-readme-stats.vercel.app/api?username=PotlaETU)](https://github.com/PotlaETU?tab=repositories)
+[![Mes stats 🔥](https://github-readme-stats.vercel.app/api?username=PotlaETU)](https://github.com/PotlaETU?tab=repositories)
+
+[![Mes langages 🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=PolaETU&hide=javascript,html)](https://github.com/PotlaETU?tab=repositories)
 
 <!--
 **PotlaETU/PotlaETU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
