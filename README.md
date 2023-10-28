@@ -1,8 +1,11 @@
 ### Bienvenue sur mon GitHub ! 👋
 
-[![Mes stats 🔥](https://github-readme-stats.vercel.app/api?username=PotlaETU)](https://github.com/PotlaETU?tab=repositories)
-
-[![Mes langages 🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=PotlaETU)](https://github.com/PotlaETU?tab=repositories)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PotlaETU&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PotlaETU&repo=convoychat" />
+</a>
 
 <!--
 **PotlaETU/PotlaETU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
