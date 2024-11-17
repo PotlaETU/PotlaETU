@@ -7,7 +7,7 @@
 </div>
 
 - 🔭 Actuellement étudiant en BUT3 informatique à l'IUT de Lens
-- 🌱 J'ai pour but d'apprendre le Cloud et le Solidity par moi-même durant mon temps libre
+- 🌱 Toujours en apprendre plus
 
 <p><a href="https://potlaetu.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/anthony-rolland-info" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
