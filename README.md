@@ -18,7 +18,7 @@ Je suis Anthony Rolland, étudiant en BUT3 informatique à l’IUT de Lens.
 
 - 🔭 Actuellement étudiant en BUT3 informatique à l'IUT de Lens
 - 🌱 Passionné par l'apprentissage continu et le développement de nouvelles compétences
-- 💻 Développeur en formation avec un intérêt pour [vos domaines d'intérêt]
+- 💻 Développeur en formation avec un intérêt pour le Java et la cyber sécurité
 
 ## 🎵 Écouté récemment
 
