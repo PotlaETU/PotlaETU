@@ -6,7 +6,7 @@ Je suis Anthony Rolland, étudiant en BUT3 informatique à l’IUT de Lens.
 ## 📊 Statistiques GitHub
 
 <div align="center" >
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potlaetu&theme=tokyonight" alt="Activité GitHub"/>
+  <img width="95%" src="https://github-profile-sum-anthor.vercel.app/api/cards/profile-details?username=potlaetu&theme=tokyonight" alt="Activité GitHub"/>
 </div>
 
 <div align="center">
