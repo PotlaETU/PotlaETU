@@ -10,8 +10,8 @@ Je suis Anthony Rolland, étudiant en BUT3 informatique à l’IUT de Lens.
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PotlaETU&layout=compact&langs_count=6&hide=html,css,php&theme=tokyonight" style="display: inline-block; margin-right: 10px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PotlaETU&show_icons=true&theme=tokyonight&include_all_commits=true" style="display: inline-block;"/>
+  <img height="180em" src="https://github-stats-anthor.vercel.app/api/top-langs/?username=potlaetu&hide_progress=true&langs_count=6&hide=html,css,php,blade,twig,jupyter&theme=tokyonight" style="display: inline-block; margin-right: 10px;"/>
+  <img height="180em" src="https://github-stats-anthor.vercel.app/api?username=potlaetu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block;"/>
 </div>
 
 ## 🎯 À propos de moi
